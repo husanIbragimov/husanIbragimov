@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @husanIbragimov
-- 👀 I’m interested in Web design
+- 👋 Hi, I’m Husan
+- 👀 I’m interested in Backend
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on Google
 - 📫 you to reach me @xasanboyibragimov3@gmail.com
