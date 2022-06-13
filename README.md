@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Husan
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on Google
+- 🧑‍💻 I’m Backend developer
+- 🤝 I’m looking to collaborate with Google
 - 📫 you to reach me @xasanboyibragimov3@gmail.com
 
 <!---
